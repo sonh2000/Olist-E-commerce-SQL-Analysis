@@ -3,16 +3,18 @@
 ## 📌 Project Overview  
 This project explores the Brazilian **Olist e-commerce dataset** using **SQL (PostgreSQL)** to uncover insights into sales, customer behavior, operations, and customer experience.  
 
+
 The goal is not just querying data, but also:  
+- 🛠️ **fixiing realtions between tables and make validiation 
 - 🛠️ **Showcasing SQL mastery** (window functions, CTEs, aggregations).  
 - 📈 **Deriving business insights** (churn, logistics inefficiencies, retention).  
 - 🎯 **Recommending data-driven actions** to improve performance.  
 
 ---
 
+
 ## 🗂️ Dataset  
 The dataset contains multiple interconnected tables:  
-
 - **olist_orders** – orders with timestamps & statuses  
 - **olist_order_payments** – payment methods & installments  
 - **olist_order_items** – products, prices, freight  
@@ -23,7 +25,6 @@ The dataset contains multiple interconnected tables:
 ---
 
 ## 🔍 Key Business Questions & Metrics  
-
 ### 📈 Sales Metrics  
 - Total Revenue & Average Order Value (AOV)  
 - Number of Orders per Month  
@@ -78,3 +79,11 @@ The dataset contains multiple interconnected tables:
 - **GitHub** – project documentation & portfolio showcase  
 
 ---
+## 📌 About Me  
+I’m a **Data Analyst** skilled in SQL, Power BI, Python, and data visualization.  
+This project demonstrates how I can turn HR data into actionable insights that help organizations improve **employee engagement and retention**.  
+
+## 📬 Contact  
+- Email: yasserhassen98@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/hassan-yasser-2000hh)  
+- GitHub: [github.com/yourusername](https://github.com/sonh2000)  
